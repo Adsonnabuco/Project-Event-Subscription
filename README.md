@@ -13,6 +13,8 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **Maven**
 - **MySQL**
 - **Postman** (para testes de API)
+- **JPA**
+- **JDBC**
 
 ## 🎯 Aprendizados
 Este projeto fez parte do evento **NLW** e foi uma oportunidade para aprofundar meus conhecimentos em **Spring Boot** e **Postman**. O Postman, em especial, foi uma ferramenta nova para mim, e este projeto me permitiu explorar sua utilidade na criação e teste de APIs.
